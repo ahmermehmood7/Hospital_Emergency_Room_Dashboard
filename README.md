@@ -60,5 +60,13 @@ Below is the final ER Dashboard built in Excel:
 🌐 Portfolio: [Ahmer Mehmood](https://datascienceportfol.io/ahmermehmoodzz7)  
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmermehmood7)  
 💻 GitHub: [ahmermehmood7](https://github.com/ahmermehmood7)  
+---
+
+## 👨‍💻 Author
+**Ahmer Mehmood**  
+📧 Email: [ahmermehmood777@gmail.com](mailto:ahmermehmood777@gmail.com)  
+💼 Portfolio: [datascienceportfol.io/ahmermehmoodzz7](https://datascienceportfol.io/ahmermehmoodzz7)  
+🔗 LinkedIn: [linkedin.com/in/ahmermehmood7](https://www.linkedin.com/in/ahmermehmood7)  
+📂 GitHub: [github.com/ahmermehmood7](https://github.com/ahmermehmood7)  
 
 ✨ This project demonstrates **end-to-end Excel analytics** — from raw data → cleaning → insights → dashboard visualization.  
