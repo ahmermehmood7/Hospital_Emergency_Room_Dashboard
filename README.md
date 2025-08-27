@@ -52,7 +52,6 @@ Below is the final ER Dashboard built in Excel:
 - GitHub for version control & sharing  
 
 ---
----
 ## 👨‍💻 Author
 **Ahmer Mehmood**  
 📧 Email: [ahmermehmood777@gmail.com](mailto:ahmermehmood777@gmail.com)  
