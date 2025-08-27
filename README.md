@@ -53,15 +53,6 @@ Below is the final ER Dashboard built in Excel:
 
 ---
 ---
-
-## 👨‍💻 Author
-**Ahmer Mehmood**  
-📧 Email: (ahmermehmood777@gmail.com)_
-🌐 Portfolio: [Ahmer Mehmood](https://datascienceportfol.io/ahmermehmoodzz7)  
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmermehmood7)  
-💻 GitHub: [ahmermehmood7](https://github.com/ahmermehmood7)  
----
-
 ## 👨‍💻 Author
 **Ahmer Mehmood**  
 📧 Email: [ahmermehmood777@gmail.com](mailto:ahmermehmood777@gmail.com)  
