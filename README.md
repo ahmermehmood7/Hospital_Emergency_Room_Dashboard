@@ -12,3 +12,45 @@ Below is the final ER Dashboard built in Excel:
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ⚙️ Steps Performed
+1. **Data Preparation**
+   - Imported raw ER dataset (`Hospital Emergency Room Data.csv`) into Excel.  
+   - Cleaned and transformed using **Power Query**.  
+
+2. **Data Modeling**
+   - Built Pivot Tables for key metrics:  
+     - Number of Patients per Day  
+     - Average Waiting Time  
+     - Patient Satisfaction Scores  
+
+3. **Dashboard Development**
+   - Combined all visuals into **DASHBOARD.xlsx**.  
+   - Applied slicers & formatting for interactive analysis.  
+
+---
+
+## 🚀 Insights
+- Daily patient flow helps in **staff allocation**.  
+- Average wait times highlight **efficiency bottlenecks**.  
+- Patient satisfaction trends show **service quality improvement areas**.  
+
+---
+
+## 🔗 Repository & Portfolio
+- 📂 GitHub Repo: [Hospital Emergency Room Dashboard](https://github.com/ahmermehmood7/Hospital_Emergency_Room_Dashboard)  
+- 💼 Portfolio: [Ahmer Mehmood](https://datascienceportfol.io/ahmermehmoodzz7)  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmermehmood7)  
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Excel (Pivot Tables, Power Query, Dashboards)  
+- CSV Data Files  
+- GitHub for version control & sharing  
+
+---
+
+✨ This project demonstrates **end-to-end Excel analytics** — from raw data → cleaning → insights → dashboard visualization.  
